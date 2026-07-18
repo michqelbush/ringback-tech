@@ -1,7 +1,7 @@
 # ringback-tech
 AI missed-call text-back service for local businesses, co-founder &amp; technical lead (ringback.tech)
 
-**Live site:** [ringback.tech](https://ringback.tech)
+**Live site:** <a href="https://ringback.tech" target="_blank">ringback.tech</a>
 
 ## The problem
 
